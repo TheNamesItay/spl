@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/src/Action.cpp.o CMakeFiles/untitled1.dir/src/Session.cpp.o CMakeFiles/untitled1.dir/src/Watchable.cpp.o CMakeFiles/untitled1.dir/src/User.cpp.o  -o untitled1 
